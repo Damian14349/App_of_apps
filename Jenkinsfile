@@ -1,7 +1,7 @@
 def backendDockerTag=""
 def frontendDockerTag=""
-def frontendImage="Damian14349/Frontend"
-def backendImage="Damian14349/Backend"
+def frontendImage="damian14349/Frontend"
+def backendImage="damian14349/Backend"
 def dockerRegistry=""
 def registryCredentials="dockerhub"
 
